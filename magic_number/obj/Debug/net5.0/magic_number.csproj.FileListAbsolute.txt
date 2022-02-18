@@ -1,0 +1,16 @@
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\bin\Debug\net5.0\magic_number.exe
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\bin\Debug\net5.0\magic_number.deps.json
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\bin\Debug\net5.0\magic_number.runtimeconfig.json
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\bin\Debug\net5.0\magic_number.runtimeconfig.dev.json
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\bin\Debug\net5.0\magic_number.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\bin\Debug\net5.0\ref\magic_number.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\bin\Debug\net5.0\magic_number.pdb
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\obj\Debug\net5.0\magic_number.csproj.AssemblyReference.cache
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\obj\Debug\net5.0\magic_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\obj\Debug\net5.0\magic_number.AssemblyInfoInputs.cache
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\obj\Debug\net5.0\magic_number.AssemblyInfo.cs
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\obj\Debug\net5.0\magic_number.csproj.CoreCompileInputs.cache
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\obj\Debug\net5.0\magic_number.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\obj\Debug\net5.0\ref\magic_number.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\obj\Debug\net5.0\magic_number.pdb
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\magic_number\obj\Debug\net5.0\magic_number.genruntimeconfig.cache

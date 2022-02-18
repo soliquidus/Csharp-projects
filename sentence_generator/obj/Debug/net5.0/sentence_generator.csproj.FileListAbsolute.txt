@@ -1,0 +1,16 @@
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\bin\Debug\net5.0\sentence_generator.exe
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\bin\Debug\net5.0\sentence_generator.deps.json
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\bin\Debug\net5.0\sentence_generator.runtimeconfig.json
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\bin\Debug\net5.0\sentence_generator.runtimeconfig.dev.json
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\bin\Debug\net5.0\sentence_generator.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\bin\Debug\net5.0\ref\sentence_generator.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\bin\Debug\net5.0\sentence_generator.pdb
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\obj\Debug\net5.0\sentence_generator.csproj.AssemblyReference.cache
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\obj\Debug\net5.0\sentence_generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\obj\Debug\net5.0\sentence_generator.AssemblyInfoInputs.cache
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\obj\Debug\net5.0\sentence_generator.AssemblyInfo.cs
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\obj\Debug\net5.0\sentence_generator.csproj.CoreCompileInputs.cache
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\obj\Debug\net5.0\sentence_generator.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\obj\Debug\net5.0\ref\sentence_generator.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\obj\Debug\net5.0\sentence_generator.pdb
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\sentence_generator\obj\Debug\net5.0\sentence_generator.genruntimeconfig.cache

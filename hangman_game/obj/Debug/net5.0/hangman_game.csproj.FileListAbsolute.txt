@@ -1,0 +1,17 @@
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\obj\Debug\net5.0\hangman_game.csproj.AssemblyReference.cache
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\obj\Debug\net5.0\hangman_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\obj\Debug\net5.0\hangman_game.AssemblyInfoInputs.cache
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\obj\Debug\net5.0\hangman_game.AssemblyInfo.cs
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\obj\Debug\net5.0\hangman_game.csproj.CoreCompileInputs.cache
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\bin\Debug\net5.0\hangman_game.exe
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\bin\Debug\net5.0\hangman_game.deps.json
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\bin\Debug\net5.0\hangman_game.runtimeconfig.json
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\bin\Debug\net5.0\hangman_game.runtimeconfig.dev.json
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\bin\Debug\net5.0\hangman_game.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\bin\Debug\net5.0\ref\hangman_game.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\bin\Debug\net5.0\hangman_game.pdb
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\obj\Debug\net5.0\hangman_game.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\obj\Debug\net5.0\ref\hangman_game.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\obj\Debug\net5.0\hangman_game.pdb
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\obj\Debug\net5.0\hangman_game.genruntimeconfig.cache
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\hangman_game\bin\Debug\net5.0\words.txt
