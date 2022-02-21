@@ -1,0 +1,16 @@
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\bin\Debug\net5.0\pizza_v1.exe
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\bin\Debug\net5.0\pizza_v1.deps.json
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\bin\Debug\net5.0\pizza_v1.runtimeconfig.json
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\bin\Debug\net5.0\pizza_v1.runtimeconfig.dev.json
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\bin\Debug\net5.0\pizza_v1.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\bin\Debug\net5.0\ref\pizza_v1.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\bin\Debug\net5.0\pizza_v1.pdb
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\obj\Debug\net5.0\pizza_v1.csproj.AssemblyReference.cache
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\obj\Debug\net5.0\pizza_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\obj\Debug\net5.0\pizza_v1.AssemblyInfoInputs.cache
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\obj\Debug\net5.0\pizza_v1.AssemblyInfo.cs
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\obj\Debug\net5.0\pizza_v1.csproj.CoreCompileInputs.cache
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\obj\Debug\net5.0\pizza_v1.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\obj\Debug\net5.0\ref\pizza_v1.dll
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\obj\Debug\net5.0\pizza_v1.pdb
+C:\Users\tibo.pfeifer\Documents\ProjetsDev\C#\Projects\pizza_v1\obj\Debug\net5.0\pizza_v1.genruntimeconfig.cache
