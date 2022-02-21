@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CYmxTAp+JzQqtg0y/ZY34pcEfZW2Vz3J8Hm76BMkZt7u5zEPrLebM4obTII00Bthvh/IHu/4VDVeLLXrERq5xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tibo.pfeifer\\Documents\\ProjetsDev\\C#\\Projects\\pizza_v2\\pizza_v2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tibo.pfeifer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
